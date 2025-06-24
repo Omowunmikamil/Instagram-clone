@@ -122,3 +122,11 @@ p {
     margin: 0;
 }
 
+
+/* Media Queries */
+@media (max-width: 768px) {
+    #container {
+        width: 100%;
+    }
+}
+

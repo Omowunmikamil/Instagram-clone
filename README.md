@@ -1,6 +1,6 @@
 # Instagram Clone
 
-# HomeTown (A Scrimba Solo Project)
+# Instagram Clone (A Scrimba Solo Project)
 
 Following a provided Figma Design as guide, create a Instagram Clone website, make sure it meets the basic requirement, and if you can, make it more interactive using the stretch requirements.
 
